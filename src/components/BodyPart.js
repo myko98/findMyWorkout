@@ -1,7 +1,5 @@
 import React from 'react'
 import { Stack, Typography } from '@mui/material'
-import Icon from '../assets/icons/gym.png'
-
 
 const BodyPart = ({ item, setBodyPart, bodyPart }) => {
 	return (
@@ -25,8 +23,8 @@ const BodyPart = ({ item, setBodyPart, bodyPart }) => {
 				window.scrollTo({top: 1080, left: 100, behavior: 'smooth'})
 			}}
 		>
-			<img src={Icon} alt="dumbell" style={{ width: '40px', height: '40px' }} />
-			<Typography fontSize='24px' fontWeight="bold" color="#3A1212" textTransform="capitalize">{item}</Typography>
+			<img src={item.img} alt="dumbell" style={{ width: '80px', height: '80px' }} />
+			<Typography fontSize='24px' fontWeight="bold" color="#3A1212" textTransform="capitalize">{item.name}</Typography>
 		</Stack >
 	)
 }
