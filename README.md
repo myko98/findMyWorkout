@@ -7,8 +7,9 @@ Find My Workout aims to help lifters find new exercises that facilitates the gro
 ![page3](https://user-images.githubusercontent.com/24720939/178380858-e785142c-0963-4f4b-9a1d-3ceb32287534.jpg)
 
 
+## Technologies Used
 
-## Available Scripts
+React, Javascript, HTML, CSS, Material UI.
 
-In the project directory, you can run:
+From this project I also utilized react packages such as react-horizontal-scrolling-menu, react-loader-spinner, react-router-dom
 
