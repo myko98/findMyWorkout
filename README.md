@@ -2,9 +2,10 @@
 
 Find My Workout aims to help lifters find new exercises that facilitates the growth of their strength training.
 
-![image](https://user-images.githubusercontent.com/24720939/178379996-5560851d-0f01-410d-8283-020b22d9ba03.png)
-![image](https://user-images.githubusercontent.com/24720939/178380060-61e1847d-a6ea-4dad-9f44-444a3a023761.png)
-![image](https://user-images.githubusercontent.com/24720939/178380115-f7e512fb-d064-4446-acf6-c1871e5301b3.png)
+![page1](https://user-images.githubusercontent.com/24720939/178380850-9275522f-9baf-4f17-9002-f811de218bfa.jpg)
+![page2](https://user-images.githubusercontent.com/24720939/178380855-b97549e4-7f9f-4ebf-bfa8-090685d9d8cd.jpg)
+![page3](https://user-images.githubusercontent.com/24720939/178380858-e785142c-0963-4f4b-9a1d-3ceb32287534.jpg)
+
 
 
 ## Available Scripts
