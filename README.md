@@ -9,7 +9,11 @@ Find My Workout aims to help lifters find new exercises that facilitates the gro
 
 ## Technologies Used
 
-React, Javascript, HTML, CSS, Material UI.
+React, Javascript, HTML, CSS, Material UI
 
-From this project I also utilized react packages such as react-horizontal-scrolling-menu, react-loader-spinner, react-router-dom
+APIs used: ExerciseDB, YoutubeSearchAPI.
+
+From this project I also utilized react packages such as react-horizontal-scrolling-menu, react-loader-spinner, react-router-dom.
+
+
 
