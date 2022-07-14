@@ -1,8 +1,19 @@
 # Find My Workout
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Find My Workout aims to help lifters find new exercises that facilitates the growth of their strength training.
 
-## Available Scripts
+![page1](https://user-images.githubusercontent.com/24720939/178380850-9275522f-9baf-4f17-9002-f811de218bfa.jpg)
+![page2](https://user-images.githubusercontent.com/24720939/178380855-b97549e4-7f9f-4ebf-bfa8-090685d9d8cd.jpg)
+![page3](https://user-images.githubusercontent.com/24720939/178380858-e785142c-0963-4f4b-9a1d-3ceb32287534.jpg)
 
-In the project directory, you can run:
+
+## Technologies Used
+
+React, Javascript, HTML, CSS, Material UI
+
+APIs used: ExerciseDB, YoutubeSearchAPI.
+
+From this project I also utilized react packages such as react-horizontal-scrolling-menu, react-loader-spinner, react-router-dom.
+
+
 
